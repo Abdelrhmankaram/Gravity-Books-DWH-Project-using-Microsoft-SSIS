@@ -1,0 +1,1 @@
+select * from Bridge_Book_Author;
